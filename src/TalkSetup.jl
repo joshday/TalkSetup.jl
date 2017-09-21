@@ -1,5 +1,5 @@
 module TalkSetup
-
+using Revise
 using Plots
 gr()
 using Distributions
